@@ -19,18 +19,8 @@ We’ve built a web application designed to empower patients by providing them w
 ## Technologies Used
 
 Backend:
-Flask
-Flask-CORS
-Pickle
-TensorFlow
-PIL (Pillow)
-NumPy
-
-Frontend:
-React.js
-Axios
-HTML/CSS
-JavaScript/JSX
+Flask, Flask-CORS, Pickle, TensorFlow, PIL (Pillow), NumPy
+Frontend: React.js, Axios, HTML/CSS, JavaScript/JSX
 
 
 
