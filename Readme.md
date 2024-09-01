@@ -25,6 +25,6 @@ Frontend: React.js, Axios, HTML/CSS, JavaScript/JSX
 
 
 ## Project Links
-- Presentation Link()
+- Presentation Link(https://github.com/divyamzzz/SIH-Round-1-submission-circuitalchixx-/tree/main/Files)
 - Github Repository(https://github.com/divyamzzz/medical)
 - Video Link()
