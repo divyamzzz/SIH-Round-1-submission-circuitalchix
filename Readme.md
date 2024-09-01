@@ -18,8 +18,8 @@ We’ve built a web application designed to empower patients by providing them w
  By leveraging cutting-edge technology, the app aims to aid in early diagnosis, offering personalized health insights and improving patient outcomes. Additionally, it will serve as a convenient platform for users to track their health data and receive timely recommendations for medical consultation.
 ## Technologies Used
 
-Backend:
-Flask, Flask-CORS, Pickle, TensorFlow, PIL (Pillow), NumPy
+Backend:Flask, Flask-CORS, Pickle, TensorFlow, PIL (Pillow), NumPy
+
 Frontend: React.js, Axios, HTML/CSS, JavaScript/JSX
 
 
