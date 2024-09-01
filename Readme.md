@@ -23,5 +23,5 @@ We’ve built a web application designed to empower patients by providing them w
 
 ## Project Links
 - Presentation Link()
-- Github Repository()
+- Github Repository(https://github.com/divyamzzz/medical)
 - Video Link()
