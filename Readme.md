@@ -28,4 +28,4 @@ Frontend: React.js, Axios, HTML/CSS, JavaScript/JSX
 - Presentation Link(https://github.com/divyamzzz/SIH-Round-1-submission-circuitalchixx-/tree/main/Files)
 - Github Repository(https://github.com/divyamzzz/medical)
 - Video Link(https://drive.google.com/file/d/1F6oiPFzlP_ZkIKAcwhkDWLeckoopUifZ/view?usp=drive_link)
-- Deploy Link(https://vercel.com/divyams-projects-ea7f0ad6/medicalhome)
+- Deploy Link(https://medicalhome-nine.vercel.app/)
