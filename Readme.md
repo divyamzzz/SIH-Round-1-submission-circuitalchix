@@ -10,7 +10,7 @@ AI-Enhanced Healthcare Diagnostics and Management System
   - Divyam Singh-2021UEE4599  
   - Himani Dua-2021UEE4592
   - Chirag Maini-2021UEE4659
-  - Kanish-2022UEE4600
+  - Kanishk-2022UEE4600
   - Ansh Bhatla-2021UEC2527
 
 ## Project Description
